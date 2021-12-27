@@ -4,7 +4,7 @@
 <h3> 👨‍💻 &nbsp; UM POUCO SOBRE MIM: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao">UNESA - Universidade Estácio de Sá</a>.
+- 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/">Prefeitura Municipal de Angra dos Reis</a>
 - 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
 
