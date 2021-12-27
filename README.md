@@ -1,7 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> 👨‍💻 &nbsp; UM POUCO SOBRE MIM: </h3>
+<h3>  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> UM POUCO SOBRE MIM: </h3>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
@@ -47,6 +48,7 @@
 
 <br/>
 
+
 <a href="https://github.com/lucassoarestech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dracula&show_icons=true" />
 </a>
@@ -61,4 +63,9 @@
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucassoarestech/"/></a>
-</p>  
+  
+[YouTube]: https://www.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg/
+📺 [YouTube][YouTube]
+
+ 
+
