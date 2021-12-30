@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h3>  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> UM POUCO SOBRE MIM: </h3>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://i.gifer.com/7DaH.gif" />
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
