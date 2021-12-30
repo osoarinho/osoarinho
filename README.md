@@ -3,6 +3,7 @@
 
 <h3>  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> UM POUCO SOBRE MIM: </h3>
 <img align="right" width="300" src="https://i.gifer.com/7DaH.mp4" />
+<iframe src="https://gifer.com/embed/7DaH" width=480 height=364.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
