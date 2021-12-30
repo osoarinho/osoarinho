@@ -29,6 +29,8 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 -->
 
+<img align="right" width="300" src="https://c.tenor.com/J-w5FUWA17sAAAAC/hacker.gif" />
+
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
