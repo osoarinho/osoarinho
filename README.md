@@ -11,7 +11,6 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <img align="right" width="300" src="https://pa1.narvii.com/6897/9ba817c5197416f7185cfc46190b48634b0d3db9r1-500-375_hq.gif" />
-<img align="right" width="300" src="https://c.tenor.com/J-w5FUWA17sAAAAC/hacker.gif" />
 
 **Aplicações e Dados**
 
