@@ -4,7 +4,7 @@
 <h3>  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> UM POUCO SOBRE MIM: </h3>
 <img align="right" width="300" src="https://monophy.com/media/11kEuHSQAXXiGQ/monophy.gif" />
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
 - 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
