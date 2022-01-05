@@ -8,7 +8,6 @@
 - :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
  <br/>
  
- 
 <h3> :rocket: &nbsp; MINHAS SKILSS </h3>
 
 **Aplicações e Dados:**
