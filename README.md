@@ -1,6 +1,6 @@
 <img height="180em"  align="center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
 
-<h1>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h1>
+<h2>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h2>
 
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
@@ -9,9 +9,9 @@
 
 <br/>
 
-<h1> :rocket: &nbsp; MINHAS SKILS </h1>
+<h2> :rocket: &nbsp; MINHAS SKILS </h2>
 
-<h3>Aplicações e Dados</h3>
+<h3>Aplicações e Dados:</h3>
  <br/>
  <br/>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,14 +26,14 @@
 
 <br/>
 
-**DevOps:**
+<h3>DevOps:</h3>
 
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
-**Ferramentas de Desenvolvimento:**
+<h3>Ferramentas de Desenvolvimento:</h3>
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,7 +43,7 @@
 <br/>
 
 
-**Cards:**
+<h3>Cards:</h3>
 
   <a href="https://github.com/lucassoarestech">
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
