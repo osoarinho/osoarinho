@@ -2,11 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=lucassoarestech&color=006bed)
 
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" />
-<img align="right" width="300" src="https://www.hugp.com/research/assets/img/gif/pc.gif" />
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
 
--  &nbsp; Explorando novas tecnologias.
+-  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
 - 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
