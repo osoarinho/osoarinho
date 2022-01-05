@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=lucassoarestech&color=006bed)
-
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" />
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
@@ -13,7 +10,7 @@
  
 <h3> :rocket: &nbsp;MINHAS SKILSS </h3>
 
-**Aplicações e Dados**
+**Aplicações e Dados:**
  <br/>
  <br/>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,13 +24,13 @@
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
-**DevOps**
+**DevOps:**
 
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-**Ferramentas de Desenvolvimento**
+**Ferramentas de Desenvolvimento:**
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -51,7 +48,8 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+<h3> :earth_americas: &nbsp;ONDE ME ENCONTRAR: </h3> 
 
 
 
