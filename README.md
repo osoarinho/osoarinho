@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" />
+<img align="center" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" />
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
 
