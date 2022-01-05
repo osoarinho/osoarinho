@@ -1,7 +1,8 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif" />
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
-<br/>
+  <a href="https://github.com/lucassoarestech">
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
+  </a>
 
   <a href="https://github.com/lucassoarestech">
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
