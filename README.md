@@ -7,6 +7,7 @@
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
 - :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
 
+<br/>
 
 <h3> :rocket: &nbsp; MINHAS SKILSS </h3>
 
@@ -23,12 +24,14 @@
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
+<br/>
 
 **DevOps:**
 
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<br/>
 
 **Ferramentas de Desenvolvimento:**
 
@@ -36,6 +39,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+
+<br/>
 
 
 **Cards:**
@@ -45,10 +50,7 @@
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a>
   
-
-
 <br/>
-
 
 <h3> :earth_americas: &nbsp;ONDE ME ENCONTRAR: </h3> 
 
