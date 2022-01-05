@@ -5,7 +5,7 @@
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
-- :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
+- :technologist: Aprendendo mais sobre HTML, CSS E JAVASCRIPT.
 
 <br/>
 
