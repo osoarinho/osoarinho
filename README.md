@@ -47,12 +47,12 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 -->
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=merko)](https://github.com/iuricode/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
 <br/>
 
 
 <a href="https://github.com/lucassoarestech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
 </a>
 
 <br/>
