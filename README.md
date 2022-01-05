@@ -1,6 +1,6 @@
 <img height="180em"  align="center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
 
-<h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
+<h1>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h1>
 
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
@@ -9,9 +9,9 @@
 
 <br/>
 
-<h3> :rocket: &nbsp; MINHAS SKILSS </h3>
+<h1> :rocket: &nbsp; MINHAS SKILS </h1>
 
-**Aplicações e Dados:**
+<h3>Aplicações e Dados</h3>
  <br/>
  <br/>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
