@@ -10,7 +10,7 @@
 <br/>
 <br/>
   <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
+      <img  align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
   </a>
  
 
