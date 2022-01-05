@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<img align="right" width="300" src="https://pa1.narvii.com/6897/9ba817c5197416f7185cfc46190b48634b0d3db9r1-500-375_hq.gif" />
+<img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" />
 <h3>  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> UM POUCO SOBRE MIM: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
