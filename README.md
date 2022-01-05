@@ -8,7 +8,7 @@
 - :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
  <br/>
  
-<h3> :rocket: &nbsp;MINHAS SKILSS </h3>
+<h3> :rocket: &nbsp; MINHAS SKILSS </h3>
 
 **Aplicações e Dados:**
  <br/>
@@ -38,6 +38,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 
+**Cards:**
 
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
 <br/>
