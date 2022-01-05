@@ -1,4 +1,4 @@
-<img align="center" weight="100vw" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif" />
+<img align="center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif" />
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
 
