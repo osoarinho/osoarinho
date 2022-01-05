@@ -2,6 +2,12 @@
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
 
+-  :man_technologist: Explorando novas tecnologias.
+- 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
+- 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
+- :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
+ <br/>
+ 
   <a href="https://github.com/lucassoarestech">
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
   </a>
@@ -9,12 +15,6 @@
   <a href="https://github.com/lucassoarestech">
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
   </a>
-
--  :man_technologist: Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
-- :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
- <br/>
  
 <h3> :rocket: &nbsp; MINHAS SKILSS </h3>
 
