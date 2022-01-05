@@ -2,12 +2,8 @@
 
 
   <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
-  </a>
-  
-  <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a>
   
 <br/>
