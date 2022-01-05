@@ -1,4 +1,4 @@
-<img align="center" width="1200px" height"700" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" />
+<img align="center" width="1.200px" height"700" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" />
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
 
