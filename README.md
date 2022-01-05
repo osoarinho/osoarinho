@@ -1,12 +1,13 @@
-<img align="top center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
+<img height="180em"  align="center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
  <a href="https://github.com/lucassoarestech">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
+  
+ <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
   </a>
-  <br/>
+
   <a href="https://github.com/lucassoarestech">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
+      <br/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
   </a>
  
 
