@@ -1,6 +1,14 @@
 <img align="top center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
 
 <h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM: </h3>
+ <a href="https://github.com/lucassoarestech">
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
+  </a>
+  <br/>
+  <a href="https://github.com/lucassoarestech">
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
+  </a>
+ 
 
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
@@ -8,13 +16,6 @@
 - :technologist: Aprendendo mais sobre HTML, CSS, JAVASCRIPT E PHP.
  <br/>
  
-  <a href="https://github.com/lucassoarestech">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://github.com/lucassoarestech">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true" />
-  </a>
  
 <h3> :rocket: &nbsp; MINHAS SKILSS </h3>
 
