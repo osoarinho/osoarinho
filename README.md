@@ -8,8 +8,8 @@
 - :technologist: Aprendendo mais sobre HTML, CSS E JAVASCRIPT.
 <br/>
 
-<h2> :rocket: &nbsp; MINHAS SKILS </h2>
-<h3>Aplicações e Dados:</h3>
+<h3> :rocket: &nbsp; MINHAS SKILS </h3>
+<h4>Aplicações e Dados:</h4>
  <br/>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,28 +21,27 @@
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 
-<h3>DevOps:</h3>
+<h4>DevOps:</h4>
 
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 
-<h3>Ferramentas de Desenvolvimento:</h3>
+<h4>Ferramentas de Desenvolvimento:</h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br/>
 
-<h3>Cards:</h3>
+<h4>Cards:</h4>
 
   <a href="https://github.com/lucassoarestech">
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 <br/>
-<h3> :earth_americas: &nbsp;ONDE ME ENCONTRAR: </h3> 
-
+<h4> :earth_americas: &nbsp;Onde me encontrar: </h4>
 
 
  
