@@ -1,6 +1,6 @@
 <img height="180em"  align="center" weight="100%" src="https://media.giphy.com/media/eEbiAqk9YUT5e/giphy.gif"/>
 
-<h3>  <img width="45" alt="about" src="![image](https://user-images.githubusercontent.com/69563846/148661906-42b5d103-25a3-4587-a7d0-50ee73d7428e.png)"> UM POUCO SOBRE MIM </h3>
+<h3>  <img width="45" alt="about" [image](https://user-images.githubusercontent.com/69563846/148661906-42b5d103-25a3-4587-a7d0-50ee73d7428e.png)> UM POUCO SOBRE MIM </h3>
  <!-- https://giffiles.alphacoders.com/156/15675.gif -->
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
