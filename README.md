@@ -1,4 +1,4 @@
-<img height="180em"  align="center" weight="100%" src="https://data.whicdn.com/images/346770690/original.gif"/>
+<img height="180em"  align="center" weight="100%" src="https://media.giphy.com/media/eEbiAqk9YUT5e/giphy.gif"/>
 
 <h3>  <img width="45" alt="about" src="https://www.behance.net/gallery/48221389/Fugitive"> UM POUCO SOBRE MIM </h3>
  <!-- https://giffiles.alphacoders.com/156/15675.gif -->
