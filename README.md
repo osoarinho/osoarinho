@@ -1,7 +1,7 @@
-<img height="180em"  align="center" weight="100%" src="https://media.giphy.com/media/eEbiAqk9YUT5e/giphy.gif"/>
+<img height="180em"  align="center" weight="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/640px-Matrix_Digital_rain_banner.gif"/>
 
-<h3>  <img width="45" alt="about" [image](https://user-images.githubusercontent.com/69563846/148661906-42b5d103-25a3-4587-a7d0-50ee73d7428e.png)> UM POUCO SOBRE MIM </h3>
- <!-- https://giffiles.alphacoders.com/156/15675.gif -->
+<h3>  <img width="45" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h3>
+
 -  :man_technologist: Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
@@ -45,4 +45,3 @@
 
 
  
-
