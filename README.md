@@ -1,15 +1,15 @@
 
 <img height="300em" align="right" weight="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
-<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h3>
+<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> ABOUT ME... </h3>
 
--  :man_technologist:  Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como ESTAGIÁRIO DE T.I., no setor de Desenvolvimento, subsetor de Sistemas na <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis</a>
-- :technologist: Aprendendo mais sobre HTML, CSS E JAVASCRIPT.
+-  :man_technologist:  Exploring new technologies.
+- 🎓 &nbsp; Studying Computer Information Systems at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
+- 💼 &nbsp; Working as an IT INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ</a>
+- :technologist: Learning more about Front-End Web Development.
 <br/>
 
-<h3> :rocket: &nbsp; MINHAS SKILS </h3>
-<h4>Aplicações e Dados:</h4>
+<h3> :rocket: &nbsp; MY SKILLS </h3>
+<h4>Data and Aplications:</h4>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 
-<h4>Ferramentas de Desenvolvimento:</h4>
+<h4>Development Tools:</h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -40,7 +40,7 @@
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 <br/>
-<h4> :earth_americas: &nbsp;Onde me encontrar: </h4>
+<h4> :earth_americas: &nbsp;Where to find me:</h4>
 
 
  
