@@ -15,7 +15,7 @@
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 
-<h3> ⚛️ &nbsp; M Y &nbsp S K I L L S </h3>
+<h3> ⚛️ &nbsp; M Y &nbsp S K I L L S &nbsp ⚛️ </h3>
 <h4>Data and Aplications:</h4>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
