@@ -13,6 +13,7 @@
   <a href="https://github.com/lucassoarestech">
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
+  </a> 
 
 <h3> :rocket: &nbsp; MY SKILLS </h3>
 <h4>Data and Aplications:</h4>
@@ -38,10 +39,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br/>
-
-
-  </a> 
-<br/>
+  
 <h4> :earth_americas: &nbsp;Where to find me:</h4>
 
 
