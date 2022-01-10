@@ -12,7 +12,7 @@
 
   <a href="https://github.com/lucassoarestech">
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
-      <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 
 <h3> ⚛️ &nbsp; M Y &nbsp S K I L L S &nbsp ⚛️ </h3>
