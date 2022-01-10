@@ -2,10 +2,10 @@
 <img height="300em" align="right" weight="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
 <h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp M E... </h3>
 
--  :man_technologist:  Exploring new technologies.
+-  :man_technologist: &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
-- :atom: Learning more about Front-End Web Development.
+- :atom: &nbsp; Learning more about Front-End Web Development.
 <br/>
 
 **Cards:**
