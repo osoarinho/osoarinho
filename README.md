@@ -5,7 +5,7 @@
 -  :man_technologist:  Exploring new technologies.
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
-- :technologist: Learning more about Front-End Web Development.
+- :atom: Learning more about Front-End Web Development.
 <br/>
 
 **Cards:**
