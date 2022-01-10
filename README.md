@@ -1,6 +1,6 @@
 
 <img height="300em" align="right" weight="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
-<h3>  <img width="60" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h3>
+<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> UM POUCO SOBRE MIM </h3>
 
 -  :man_technologist:  Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando SISTEMAS DE INFORMAÇÃO na <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
