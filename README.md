@@ -40,7 +40,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br/>
   
-<h4> :earth_americas: &nbsp;Where to find me:</h4>
+<h4> :earth_americas: &nbsp;Where to find me: &nbsp; :earth_americas:</h4>
 
 
  
