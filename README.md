@@ -8,6 +8,12 @@
 - :technologist: Learning more about Front-End Web Development.
 <br/>
 
+**Cards:**
+
+  <a href="https://github.com/lucassoarestech">
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
+
 <h3> :rocket: &nbsp; MY SKILLS </h3>
 <h4>Data and Aplications:</h4>
 
@@ -33,11 +39,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br/>
 
-**Cards:**
 
-  <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 <br/>
 <h4> :earth_americas: &nbsp;Where to find me:</h4>
