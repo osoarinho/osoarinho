@@ -1,6 +1,6 @@
 
 <img height="300em" align="right" weight="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
-<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp &nbsp M E... </h3>
+<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist:  Exploring new technologies.
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
@@ -15,7 +15,7 @@
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 
-<h3> ⚛️ &nbsp; M Y &nbsp &nbsp S K I L L S </h3>
+<h3> ⚛️ &nbsp; M Y &nbsp S K I L L S </h3>
 <h4>Data and Aplications:</h4>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
