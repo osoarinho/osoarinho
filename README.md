@@ -3,9 +3,11 @@
 <h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá</a>.
+- 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
+- 📚 &nbsp; Studying CCNA: INTRODUCTION TO NETWORKS at <a href="https://www.netacad.com/pt-br/courses/networking/ccna-introduction-networks" target="_blank">CISCO - Networking Academy.</a>
 - 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - :atom: &nbsp; Learning more about Front-End Web Development.
+- 🔍 &nbsp; Interested in Cyber Security.
 <br/>
 
 **Cards:**
