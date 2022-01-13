@@ -1,5 +1,5 @@
 
-<img height="300em" align="right" weight="250" src="https://user-images.githubusercontent.com/69563846/149250777-575eb501-dea6-4671-a042-688506770b9f.png">
+<img height="300em" align="right" weight="250" src="https://64.media.tumblr.com/tumblr_m2dtcsSXYD1r3in4so1_500.gif">
 <h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
