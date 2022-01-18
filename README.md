@@ -1,6 +1,6 @@
 
 <img height="250em" align="right" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-<h3>  <img width="200px" align="center" alt="about" src="https://www.dzinepixel.com/images/inner-page/websitedevelopment/Website-Design.gif"> A B O U T &nbsp M E... </h3>
+<h3>  <img width="200px" align="center" alt="about" src="https://beyondi.co/wp-content/uploads/2018/11/web_applications.gif"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
