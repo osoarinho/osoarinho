@@ -1,6 +1,6 @@
 
-<img height="300em" align="right" weight="250" src="https://64.media.tumblr.com/tumblr_m2dtcsSXYD1r3in4so1_500.gif">
-<h3>  <img width="80" align="center" alt="about" src="https://giffiles.alphacoders.com/156/15675.gif"> A B O U T &nbsp M E... </h3>
+<img height="250em" align="right" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<h3>  <img width="200px" align="center" alt="about" src="https://www.dzinepixel.com/images/inner-page/websitedevelopment/Website-Design.gif"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
@@ -13,8 +13,8 @@
 **Cards:**
 
   <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=dark&show_icons=true"/>
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=dark"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=tokyonight&show_icons=true"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=tokyonight"/>
   </a> 
 
 <h3> ⚛️ &nbsp; M Y &nbsp S K I L L S &nbsp ⚛️ </h3>
