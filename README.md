@@ -5,7 +5,7 @@
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
-- 📚 &nbsp; Studying CCNA: INTRODUCTION TO NETWORKS at <a href="https://www.netacad.com/pt-br/courses/networking/ccna-introduction-networks" target="_blank">CISCO - Networking Academy.</a>
+-🌐 &nbsp; Studying CCNA: INTRODUCTION TO NETWORKS at <a href="https://www.netacad.com/pt-br/courses/networking/ccna-introduction-networks" target="_blank">CISCO - Networking Academy.</a>
 - 📚 &nbsp; Studying free content "DISCOVER" of the <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> school.
 - :atom: &nbsp; Learning more about Front-End Web Development.
 - ⚛️ &nbsp; Interested in Full-Stack Web Development.
