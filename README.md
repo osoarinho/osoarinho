@@ -9,6 +9,7 @@
 - 📚 &nbsp; Studying free content "DISCOVER" of the <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> school.
 - :atom: &nbsp; Learning more about Front-End Web Development.
 - ⚛️ &nbsp; Interested in Full-Stack Web Development.
+- 🔎 &nbsp; Interested too in CyberSecurity.
 <br/>
 
 **Cards:**
