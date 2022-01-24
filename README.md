@@ -1,6 +1,6 @@
 
 <img height="250em" align="right" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-<h3>  <img width="200px" align="center" alt="about" src="https://user-images.githubusercontent.com/69563846/150774622-16ba8181-f0db-4271-8482-6ee712ea7c12.png"> A B O U T &nbsp M E... </h3>
+<h3>  <img width="200px" align="center" alt="about" src="![image](https://user-images.githubusercontent.com/69563846/150775527-0626f2bf-eb9a-43ee-8b3a-88883280b046.png)"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
