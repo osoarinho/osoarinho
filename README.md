@@ -41,5 +41,12 @@
   
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white Link: https://www.linkedin.com/in/lucas-soares-dos-santos-42925919b/
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white Link: https://www.instagram.com/lucassoarestech/
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white Link: https://m.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg
+
+
+
 
  
