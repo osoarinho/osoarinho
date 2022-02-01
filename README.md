@@ -10,7 +10,7 @@
 - ⚛️ &nbsp; Interested in Full-Stack Web Development.
 - 🔎 &nbsp; Interested too in CyberSecurity.
 <br>
-<br>
+
 **Cards:**
 
   <a href="https://github.com/lucassoarestech">
