@@ -9,15 +9,16 @@
 - :atom: &nbsp; Learning more about Front-End Web Development.
 - ⚛️ &nbsp; Interested in Full-Stack Web Development.
 - 🔎 &nbsp; Interested too in CyberSecurity.
-<br/>
-
+<br>
+<br>
 **Cards:**
 
   <a href="https://github.com/lucassoarestech">
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=tokyonight&show_icons=true"/>
       <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=tokyonight"/>
   </a> 
-
+<br>
+<br>
 <h3> ⚛️ &nbsp; M Y &nbsp S K I L L S &nbsp ⚛️ </h3>
 <h4>Data and Aplications:</h4>
 
