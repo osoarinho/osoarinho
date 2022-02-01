@@ -3,7 +3,7 @@
 <h3>  <img width="200px" align="center" alt="about" src="https://user-images.githubusercontent.com/69563846/150776040-3c3522e6-f79a-474c-b3a3-c01caa581a34.png"> A B O U T &nbsp M E... </h3>
 
 -  :man_technologist: &nbsp; Exploring new technologies.
-- 💼 &nbsp; Working as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
+- 💼 &nbsp; Working with Web Front-End as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
 - 📚 &nbsp; Studying free content "DISCOVER" of the <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> school.
 - :atom: &nbsp; Learning more about Front-End Web Development.
@@ -41,10 +41,11 @@
   
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white Link: https://www.linkedin.com/in/lucas-soares-dos-santos-42925919b/
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white Link: https://www.instagram.com/lucassoarestech/
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white Link: https://m.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/lucas-soares-dos-santos-42925919b/
+<br>
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : https://www.instagram.com/lucassoarestech/
+<br>
+![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) : https://m.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg
 
 
 
