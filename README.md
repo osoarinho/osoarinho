@@ -1,8 +1,7 @@
 
-<img height="250em" align="right" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-<img width="200px" align="center" alt="about" src="https://user-images.githubusercontent.com/69563846/150776040-3c3522e6-f79a-474c-b3a3-c01caa581a34.png">
+<img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-<h3>❔ &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
+<h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
 
 -  :man_technologist: &nbsp; Exploring new technologies.
