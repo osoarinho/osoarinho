@@ -16,8 +16,8 @@
 <h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
 
   <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=lucassoarestech&theme=tokyonight&show_icons=true"/>
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoarestech&hide=html&layout=compact=true&theme=tokyonight"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=technoluke&theme=tokyonight&show_icons=true"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluke&hide=html&layout=compact=true&theme=tokyonight"/>
   </a> 
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/lucas-soares-dos-santos-42925919b/
 <br>
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : https://www.instagram.com/lucassoarestech/
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : https://www.instagram.com/technoluke/
 <br>
 ![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) : https://m.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg
 
