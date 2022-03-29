@@ -1,5 +1,5 @@
 
-<img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+ <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
 
 <h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
