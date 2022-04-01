@@ -45,11 +45,7 @@
   
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/lucas-soares-dos-santos-42925919b/
-<br>
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : https://www.instagram.com/technoluke/
-<br>
-![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) : https://m.youtube.com/channel/UCBS-LTJaK8lptbQJmvi1lvg
+<p>LinkTree com todas as minhas Mídias Sociais: https://linktr.ee/technoluke</p
 
 
 
