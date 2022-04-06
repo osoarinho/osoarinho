@@ -16,8 +16,8 @@
 <h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
 
   <a href="https://github.com/lucassoarestech">
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=technoluke&theme=gruvbox&show_icons=true"/>
-      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluke&hide=html&layout=compact=true&theme=gruvbox"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api?username=technoluke&theme=dark&show_icons=true"/>
+      <img height="180em" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoluke&hide=html&layout=compact=true&theme=dark"/>
   </a> 
 <br>
 <br>
