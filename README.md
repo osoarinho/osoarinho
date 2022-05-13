@@ -7,7 +7,7 @@
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working with Front-End Web Development as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
-- 📚 &nbsp; Studying about NodeJS at <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> Coding School.
+- 📚 &nbsp; Studying about Full-Stack Web Development (ReactJS, React Native, NodeJS, Elixir) at <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> Coding School.
 - :atom: &nbsp; Learning more about Front-End Web Development.
 - ⚛️ &nbsp; Interested in Full-Stack Web Development.
 - 🔎 &nbsp; Interested too in CyberSecurity.
@@ -29,16 +29,17 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<br/>
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
 <h4>DevOps:</h4>
 
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<br/>
+<br>
 
 <h4>Development Tools:</h4>
 
@@ -46,7 +47,6 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br>
-<br/>
 
 <h4>Operational Systems:</h4>
 
@@ -54,12 +54,19 @@
   ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 <br>
 
+<h4>Office:</h4>
+
+![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <br>
 <br>
 <h3> ⚛️ L E A R N I N G 📚 </h3>
+
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
+
+<br>
+
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
 <p>LinkTree com todas as minhas Mídias Sociais: https://linktr.ee/technoluke</p
