@@ -5,12 +5,10 @@
   
 
 -  :man_technologist: &nbsp; Exploring new technologies.
-- 💼 &nbsp; Working with Front-End Web Development as an I.T. INTERN, in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
+- 💼 &nbsp; Working with Web Development in the Systems subsector of the Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
 - 📚 &nbsp; Studying about Full-Stack Web Development (ReactJS, React Native, NodeJS, Elixir) at <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> Coding School.
-- :atom: &nbsp; Learning more about Front-End Web Development.
-- ⚛️ &nbsp; Interested in Full-Stack Web Development.
-- 🔎 &nbsp; Interested too in CyberSecurity.
+- 🔎 &nbsp; Interested too in I.T. Projects Management.
 <br>
 
 <h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
