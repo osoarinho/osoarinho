@@ -14,8 +14,8 @@
 <h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
 
   <a href="https://github.com/lucassoarestech">
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=soaresrj7&theme=dark&show_icons=true"/>
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresrj7&hide=html&layout=compact=true&theme=dark"/>
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=soaresrj7&theme=default&show_icons=true"/>
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresrj7&hide=html&layout=compact=true&theme=default"/>
   </a> 
 <br>
 <br>
