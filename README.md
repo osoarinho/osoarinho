@@ -56,14 +56,6 @@
 <br>
 <br>
 
-<h3> ⚛️ &nbsp; L E A R N I N G &nbsp; 📚  </h3>
-
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-<br>
-
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
 <p>LinkTree com todas as minhas Mídias Sociais: https://linktr.ee/technoluke</p
