@@ -58,4 +58,4 @@
 
 <h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
 
-<p>LinkTree com todas as minhas Mídias Sociais: https://linktr.ee/soarinho</p
+<p>LinkTree com todas as minhas Mídias Sociais e Sites: https://linktr.ee/soarinho</p
