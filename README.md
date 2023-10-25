@@ -54,8 +54,3 @@
 
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <br>
-
-
-<h3> :earth_americas: &nbsp; W H E R E &nbsp; T O &nbsp; F I N D &nbsp; M E &nbsp;:earth_americas:</h3>
-
-<p>LinkTree com todas as minhas Mídias Sociais e Sites: https://linktr.ee/soarinho</p
