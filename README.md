@@ -1,5 +1,23 @@
-S O A R I N H O - LUCAS SOARES
 
+
+
+
+
+ <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
+
+<h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
+  
+
+-  :man_technologist: &nbsp; Exploring new technologies.
+- 💼 &nbsp; Working with Web Development in the Systems Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
+- 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
+- 📚 &nbsp; Studying about Full-Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> Coding School.
+- 🖌️ &nbsp; Interested in specializing in Front-End Development.
+<br>
+
+<h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
+
+ 
 <table>
   <tr>
     <td>
@@ -54,28 +72,6 @@ S O A R I N H O - LUCAS SOARES
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
-
-
-
-
- <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
-
-<h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
-  
-
--  :man_technologist: &nbsp; Exploring new technologies.
-- 💼 &nbsp; Working with Web Development in the Systems Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
-- 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
-- 📚 &nbsp; Studying about Full-Stack Web Development at <a href="https://www.rocketseat.com.br/" target="_blank">RocketSeat</a> Coding School.
-- 🖌️ &nbsp; Interested in specializing in Front-End Development.
-<br>
-
-<h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
-
-  <a href="https://github.com/lucassoarestech">
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lucassoaresangra&theme=dark&show_icons=true"/>
-     <!-- <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresangra&hide=html&layout=compact=true&theme=dark"/> -->
-  </a> 
 <br>
 <br>
 <h3> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
