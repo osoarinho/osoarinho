@@ -81,31 +81,27 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
-
-<h4 align="center">Coding Management:</h4>
 <p align="center">
+<h4>Coding Management:</h4>
+
   ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-</p>
 <br>
 
-<h4 align="center">Development Tools:</h4>
-<p align="center">
+<h4>Development Tools:</h4>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-</p>
 <br>
 
-<h4 align="center">Operational Systems:</h4>
-<p align="center">
+<h4>Operational Systems:</h4>
+
   ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
   ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-</p>
 <br>
 
-<h4 align="center">Office:</h4>
-<p align="center">
+<h4>Office:</h4>
+
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-</p>
 <br>
-
+</p>
