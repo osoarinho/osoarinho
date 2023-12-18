@@ -1,9 +1,4 @@
-
-
-
-
-
- <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
+<!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
 
 <h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
@@ -46,7 +41,7 @@
 </table>
 <br />
 
---- 🏆 GitHub Profile Trophy:
+--- 🏆 GITHUB TROPHIES 🏆
 
 <p align="center">
   <a
@@ -63,7 +58,7 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 P R O F I L E    V I S I T O R S 📍 Count</b></h3>
 </div>
 
 <p align="center">
