@@ -1,6 +1,6 @@
 <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
 
-<h3 style="align-items:center;">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
+<h3 align="center">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
 
 -  :man_technologist: &nbsp; Exploring new technologies.
