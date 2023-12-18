@@ -49,7 +49,7 @@
     title="repositório de troféus"
   >
     <p align="center">
-      <img
+      <img  align="center"
       width="800"
       src="https://github-profile-trophy.vercel.app/?username=soarinhooficial&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
