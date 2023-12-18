@@ -56,7 +56,7 @@
 </p>
 
 
-  <h3>📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </h3>
+  <h3 align="center">📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </h3>
 
   <img
     src="https://profile-counter.glitch.me/soarinhooficial/count.svg"
@@ -64,7 +64,7 @@
   />
 <br>
 <br>
-<h3> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
+<h3 align="center"> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
 <h4>Data and Aplications:</h4>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
