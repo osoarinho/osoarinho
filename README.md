@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-  <h3><b>📍 P R O F I L E &nbsp; &nbsp; &nbsp; &nbsp; V I S I T O R S 📍 </b></h3>
+  <h3><b>📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </b></h3>
 </div>
 
 <p align="center">
