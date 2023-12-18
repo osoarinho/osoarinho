@@ -41,7 +41,7 @@
 </table>
 <br />
 
-<h3 align="center"> 🏆 GITHUB TROPHIES 🏆 </h3>
+<h3 align="center"> 🏆 G I T H U B &nbsp; &nbsp; T R O P H I E S 🏆 </h3>
 
 <p align="center">
   <a
