@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/Vq9Yd99/Soarinho-s-Animation-Git-Hub-Banner.gif" alt="Soarinho-s-Animation-Git-Hub-Banner" border="0">
-
+<img src="https://i.ibb.co/khWgdqS/Soarinho-s-Animation-Git-Hub-Banner.gif" alt="Soarinho-s-Animation-Git-Hub-Banner" border="0">
 <br>
 
 <h3 align="center">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
