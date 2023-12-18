@@ -1,4 +1,5 @@
-<!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
+
+<img src="https://i.ibb.co/RbvPVPN/Soarinho-s-Animation-Git-Hub-Banner.gif" alt="Soarinho-s-Animation-Git-Hub-Banner" border="0">
 
 <h3 align="center">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
