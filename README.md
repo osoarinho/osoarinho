@@ -58,25 +58,15 @@
 </p>
 
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=soarinhooficial&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-
   <h3 align="center">📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </h3>
 
+  <p align="center">
   <img
-    src="https://profile-counter.glitch.me/soarinhooficial/count.svg"
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
+</p>
+
 <br>
 <br>
 <h3 align="center"> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
