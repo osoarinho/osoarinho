@@ -69,7 +69,7 @@
 
 <br>
 <br>
-<h3 align="center"> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
+<h3 align="center"> ⚛️ &nbsp; S K I L L S &nbsp; 📚  </h3>
 <h4>Data and Aplications:</h4>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
