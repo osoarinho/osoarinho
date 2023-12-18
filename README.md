@@ -41,7 +41,7 @@
 </table>
 <br />
 
---- 🏆 GITHUB TROPHIES 🏆
+<h3> 🏆 GITHUB TROPHIES 🏆 </h3>
 
 <p align="center">
   <a
@@ -55,18 +55,13 @@
   </a>
 </p>
 
----
 
-<div align="center">
-  <h3><b>📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </b></h3>
-</div>
+  <h3>📍 P R O F I L E &nbsp; &nbsp; V I S I T O R S 📍 </h3>
 
-<p align="center">
   <img
     src="https://profile-counter.glitch.me/soarinhooficial/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
-</p>
 <br>
 <br>
 <h3> ⚛️ &nbsp; T R A I N N I N  G &nbsp; 📚  </h3>
