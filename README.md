@@ -1,6 +1,6 @@
 <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
 
-<h3>📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
+<h3 style="align-items:center;">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
 
 -  :man_technologist: &nbsp; Exploring new technologies.
@@ -10,7 +10,7 @@
 - 🖌️ &nbsp; Interested in specializing in Front-End Development.
 <br>
 
-<h3> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
+<h3 style="align-items:center;"> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
 
  
 <table>
@@ -41,7 +41,7 @@
 </table>
 <br />
 
-<h3> 🏆 GITHUB TROPHIES 🏆 </h3>
+<h3 style="align-items:center;"> 🏆 GITHUB TROPHIES 🏆 </h3>
 
 <p align="center">
   <a
