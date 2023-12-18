@@ -10,7 +10,7 @@
 - 🖌️ &nbsp; Interested in specializing in Front-End Development.
 <br>
 
-<h3 style="align-items:center;"> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
+<h3 align="center"> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
 
  
 <table>
@@ -41,7 +41,7 @@
 </table>
 <br />
 
-<h3 style="align-items:center;"> 🏆 GITHUB TROPHIES 🏆 </h3>
+<h3 align="center"> 🏆 GITHUB TROPHIES 🏆 </h3>
 
 <p align="center">
   <a
