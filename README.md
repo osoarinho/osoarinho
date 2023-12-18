@@ -1,3 +1,62 @@
+S O A R I N H O - LUCAS SOARES
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=soarinhooficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=soarinhooficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=soarinhooficial&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+<br />
+
+--- 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=soarinhooficial&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/soarinhooficial/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
+
+
 
  <!-- <img height="200em" align="center" weight="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"> -->
 
