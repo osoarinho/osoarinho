@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/PDvLxJ0/Soarinho-s-Animation-Git-Hub-Banner.gif" alt="Soarinho-s-Animation-Git-Hub-Banner" border="0">
+[[<img src="[https://i.ibb.co/PDvLxJ0/Soarinho-s-Animation-Git-Hub-Banner.gif](https://i.ibb.co/PDvLxJ0/Soarinho-s-Animation-Git-Hub-Banner.gif)" alt="Soarinho-s-Animation-Git-Hub-Banner" border="0">
+](https://i.ibb.co/PDvLxJ0/Soarinho-s-Animation-Git-Hub-Banner.gif)](https://i.ibb.co/PDvLxJ0/Soarinho-s-Animation-Git-Hub-Banner.gif)
+
 <br>
 
 <h3 align="center">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
