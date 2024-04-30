@@ -8,7 +8,6 @@
 -  :man_technologist: &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working with Web Development in the Systems Development sector at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
 - 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
-- 🖌️ &nbsp; Interested in specializing in Front-End Development.
 <br>
 
 <h3 align="center"> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
