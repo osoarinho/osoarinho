@@ -18,14 +18,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=soarinhooficial&theme=default&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=adevcalledlucas&theme=default&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=soarinhooficial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevcalledlucas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -33,7 +33,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=soarinhooficial&theme=default&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=adevcalledlucas&theme=default&hide_border=false"
         alt="Github stats"
       />
     </td>
@@ -51,7 +51,7 @@
     <p align="center">
       <img  align="center"
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=soarinhooficial&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=adevcalledlucas&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
     </p>
   </a>
@@ -62,7 +62,7 @@
 
   <p align="center">
   <img
-    src="https://profile-counter.glitch.me/soarinhooficial/count.svg"
+    src="https://profile-counter.glitch.me/adevcalledlucas/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
