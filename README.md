@@ -5,9 +5,8 @@
 <h3 align="center">📋 &nbsp; A B O U T &nbsp; M E &nbsp; 👨🏽‍💼</h3>
   
 
--  :man_technologist: &nbsp; Travelling in Front-End universe.
+-  :man_technologist: &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working with Web Development in the Systems Development sector, as Development Cordinator, at <a href="https://www.angra.rj.gov.br/" target="_blank">Prefeitura Municipal de Angra dos Reis-RJ.</a>
-- 🎓 &nbsp; Studying COMPUTER INFORMATION SYSTEMS at <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao" target="_blank">UNESA - Universidade Estácio de Sá.</a>
 <br>
 
 <h3 align="center"> 📊&nbsp; C A R D S &nbsp; 📉 </h3>
