@@ -10,7 +10,7 @@
 
 ---
 
-🛠️ **Tech Stack**  
+🛠️ **Tech Stacks**  
 HTML • CSS • JavaScript • PHP • MySQL • Git • Figma • WordPress • Elementor • WooCommerce  
 
 📫 **Let’s connect!**  
