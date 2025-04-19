@@ -14,4 +14,4 @@
 HTML • CSS • JavaScript • PHP • MySQL • Git • WordPress • Elementor • WooCommerce  
 
 📫 **Let’s connect!**  
-Feel free to reach out - I'm always up for collaborating on meaningful, impact-driven projects.
+Feel free to reach out - I'm always up for collaborating.
