@@ -1,17 +1,18 @@
-## 👨‍💻 About Me
+## Hi.
 
-🎯 Perfectionist, determined, and proactive, i'm a **Web Developer** and **Systems Analyst** passionate about transforming ideas into intuitive and efficient digital experiences.
+I am soarinho — web developer, systems analyst, and creator.
+my path blends technology, music, and art, always with one principle:
+transforming moments into lasting experiences.
 
-💡 With a solid background in **IT Support** and a strong foundation in **troubleshooting** and **system logic**, i specialize in building **scalable, high-performance** interfaces for systems, websites, and apps. My focus is on **clean code**, **responsive design**, and **optimized user experiences**.
+With a background in it support and systems logic, i build scalable, reliable, and high-performance solutions for the web. currently, i lead public sector projects, coordinating teams and technical development to deliver modern, user-focused platforms.
 
-🚀 Currently leading **public sector web projects**, i coordinate teams and oversee technical implementations to deliver **modern** and **user-centered web solutions**.
+I value discipline, clarity, and precision, both in code and in creation.
 
-✨ I value **order**, **clarity**, and **commitment** in every project i take on — always striving for excellence in both the process and the final result.
+⸻
 
----
+🛠️ tech stacks
+html • css • javascript • php • mysql • git • wordpress • elementor • woocommerce
 
-🛠️ **Tech Stacks**  
-HTML • CSS • JavaScript • PHP • MySQL • Git • WordPress • Elementor • WooCommerce  
+📫 contact
+open to collaboration and meaningful projects.
 
-📫 **Let’s connect!**  
-Feel free to reach out - I'm always up for collaborating.
