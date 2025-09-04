@@ -8,7 +8,6 @@ With a background in it support and systems logic, i build scalable, reliable, a
 
 I value discipline, clarity, and precision, both in code and in creation.
 
-⸻
 
 🛠️ Tech Stacks
 
